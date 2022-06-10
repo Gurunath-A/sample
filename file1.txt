@@ -1,0 +1,25 @@
+This is Text File.......
+==================
+This is Text File.......2
+
+
+
+Private IP's:-
+----------
+A: 10.0.0.0 to 10.255.255.255
+B: 172.16.0.0 to 172.31.255.255
+C: 192.168.0.0 to 192.168.255.255
+
+127.0.0.1 - localhost- locally used
+
+10.1.1.0   -- N/W ID
+10.1.1.255 -- BROADCAST ID
+First 3IP's AWS is used for Gateway's(10.1.1.1,2,3).
+
+
+IBM
+RRR@KGF12345689
+
+https://gitlab.com --- gowd_A  --  rrr@kgf2
+https://otter.ai      ------------------  Guru@123
+https://upsconline.nic.in ------------------  h2uYA9AxB6UETRW
